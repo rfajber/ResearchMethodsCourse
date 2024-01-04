@@ -2,3 +2,7 @@ labs_sol/*
 !labs_sol/Labs0.ipynb
 
 */*.html
+
+*.pdf 
+*.md 
+!README.md
