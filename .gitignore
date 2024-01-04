@@ -3,6 +3,4 @@ labs_sol/*
 
 */*.html
 
-*.pdf 
-*.md 
-!README.md
+class/*
