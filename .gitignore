@@ -4,3 +4,6 @@ labs_sol/*
 */*.html
 
 class/*
+!class/MathAssessmentAnswers.md
+
+notes/NotesSection3.ipynb
