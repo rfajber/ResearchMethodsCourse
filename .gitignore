@@ -1,5 +1,6 @@
 labs_sol/*
 !labs_sol/Labs0_sol.ipynb
+!labs_sol/Labs1_sol.ipynb
 
 */*.html
 
@@ -10,3 +11,5 @@ notes/NotesSection5Draft.ipynb
 
 data/1DOULong.nc
 data/2DOULong.nc
+
+data/buoy
