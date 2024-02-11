@@ -1,6 +1,7 @@
 labs_sol/*
 !labs_sol/Labs0_sol.ipynb
 !labs_sol/Labs1_sol.ipynb
+!labs_sol/Labs2_sol.ipynb
 
 */*.html
 
@@ -8,9 +9,17 @@ class/*
 !class/MathAssessmentAnswers.md
 
 notes/NotesSection5Draft.ipynb
+notes/NotesSection4.ipynb
 
 data/1DOULong.nc
 data/2DOULong.nc
 
 data/buoy
 data/draft
+
+data/giss.anom.2x2.nc
+data/giss.anom.nc
+data/gpcp*
+data/my*
+data/precip*
+
