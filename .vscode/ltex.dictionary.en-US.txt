@@ -1,2 +1,4 @@
 autocorellation
 autocorrelation
+diagonzalize
+partioned
