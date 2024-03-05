@@ -2,7 +2,7 @@ labs_sol/*
 !labs_sol/Labs0_sol.ipynb
 !labs_sol/Labs1_sol.ipynb
 !labs_sol/Labs2_sol.ipynb
-
+!labs_sol/Labs3_sol.ipynb
 */*.html
 
 class/*
@@ -23,3 +23,6 @@ data/gpcp*
 data/my*
 data/precip*
 
+data/2x2.era5.t2m.monthly.nc
+data/dt.sst.mnmean.nc
+data/sstAnom.monthly.2x2.nc
