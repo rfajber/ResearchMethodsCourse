@@ -26,3 +26,6 @@ data/precip*
 data/2x2.era5.t2m.monthly.nc
 data/dt.sst.mnmean.nc
 data/sstAnom.monthly.2x2.nc
+
+labs/Labs5/Airtemp*
+labs/Labs5/LorenzModel4DVarDirect.ipynb
